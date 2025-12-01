@@ -1,5 +1,5 @@
 
-
+#ejemplos para modificar
 base = "dsr-mobile.pwstasp.com.uy/mobileservices"
 user = "anevvv001"
 password = "Pwst12345*"
