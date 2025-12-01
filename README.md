@@ -14,7 +14,7 @@ Este archivo de Pycharm pretende ser una plantilla sencilla para automatizar EAL
 1. README
 2. conftest.py 
     está en setup y el teardown que se encargarán de abrir y cerrar el driver
-3. data.py 
+3. variables.py 
     aquí se podrán ir colocando las variables que se ocupan en todos los tests.
 4. plantilla_con_try_except.py 
     para la fase dos del testing.
