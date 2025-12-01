@@ -34,7 +34,6 @@ class TestAppiumRecorder:
         # ------------------------------------------------------------------
         print("Paso 1: Intentando logueo e instalación...")
         try:
-            # Nota: Usamos self.wait_for_element para mayor estabilidad
 
             # Click botón inicial
             el1 = self.wait_for_element(by=AppiumBy.CLASS_NAME, value="android.widget.Button")
